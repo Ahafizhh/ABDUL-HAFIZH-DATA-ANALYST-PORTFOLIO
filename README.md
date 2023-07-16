@@ -1,4 +1,4 @@
-# DATA ANALYST PORTOFOLIO BY ABDUL HAFIZH
+# DATA ANALYST PORTFOLIO BY ABDUL HAFIZH
 Hi! I'm Hafizh an aspiring data analyst who loves to seek pattern and insight from data to deliver actionable recommendation.
 
 
