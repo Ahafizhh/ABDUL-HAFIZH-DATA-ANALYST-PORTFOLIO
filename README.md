@@ -1,8 +1,7 @@
 # DATA ANALYST PORTFOLIO BY ABDUL HAFIZH
-Hi! I'm Hafizh an aspiring data analyst who loves to seek pattern and insight from data to deliver actionable recommendation.
+Hi I am Hafizh, as an aspiring Data Analyst, I possess proficiency in Python, SQL, Excel, and Spreadsheet, Tableau and Google Data Studio (Looker Studio) allowing me to effectively clean and manipulate, to uncover valuable insights and to create compelling visualizations that enhance data comprehension. Alongside my degree in Electrical Engineering from Universitas Negeri Surabaya, during my study in electrical engineering I joined the robotics team and was in charge as software specialist for fixed wing division, which handled mission planning, safety check, gather all the photos from the mission and eliminated the bad photos to create good map from it. As a result we got third place in this competition. With all my experience I am eager to apply my technical expertise and analytical thinking to analyze various datasets and give a unique and deliverable recommendation to your data teams. I'm also Embracing a continuous learning mindset. I find joy in both personal growth and collaborative achievements within a team.
 
-
-[![LINKEDIN](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://www.linkedin.com/in/ahafizh98/)
+[LINKEDIN](https://www.linkedin.com/in/ahafizh98/)
 
 ## Spreadsheet/ Excel Skill sets:
 * Data Cleaning;
